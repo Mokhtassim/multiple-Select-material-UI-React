@@ -1,0 +1,33 @@
+{
+  "name": "material-ui-multiple-select-with-select-all-option",
+  "version": "1.0.0",
+  "description": "An example for multiple select with checkbox and select all option using material-ui.",
+  "keywords": [
+    "multi select with select all",
+    "material ui",
+    "multi select",
+    "multi select with checkbox"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
